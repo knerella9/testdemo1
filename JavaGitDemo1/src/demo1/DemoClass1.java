@@ -1,3 +1,4 @@
+//next character printing program
 package demo1;
 
 public class DemoClass1 
