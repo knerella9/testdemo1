@@ -9,4 +9,4 @@ public class DemoClass1
 		System.out.println("The Character is : "+((char)(ch+1)));
 	}
 }
-//end prog
+//end program
